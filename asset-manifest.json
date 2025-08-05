@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Mrunali-Mahamunkar/My-React-app/static/css/main.42163370.css",
+    "main.js": "/Mrunali-Mahamunkar/My-React-app/static/js/main.5a50b933.js",
+    "static/js/284.e6dd2907.chunk.js": "/Mrunali-Mahamunkar/My-React-app/static/js/284.e6dd2907.chunk.js",
+    "static/js/325.073579df.chunk.js": "/Mrunali-Mahamunkar/My-React-app/static/js/325.073579df.chunk.js",
+    "static/js/699.c78892ff.chunk.js": "/Mrunali-Mahamunkar/My-React-app/static/js/699.c78892ff.chunk.js",
+    "static/js/850.f7452202.chunk.js": "/Mrunali-Mahamunkar/My-React-app/static/js/850.f7452202.chunk.js",
+    "static/js/57.3b1186e3.chunk.js": "/Mrunali-Mahamunkar/My-React-app/static/js/57.3b1186e3.chunk.js",
+    "index.html": "/Mrunali-Mahamunkar/My-React-app/index.html",
+    "main.42163370.css.map": "/Mrunali-Mahamunkar/My-React-app/static/css/main.42163370.css.map",
+    "main.5a50b933.js.map": "/Mrunali-Mahamunkar/My-React-app/static/js/main.5a50b933.js.map",
+    "284.e6dd2907.chunk.js.map": "/Mrunali-Mahamunkar/My-React-app/static/js/284.e6dd2907.chunk.js.map",
+    "325.073579df.chunk.js.map": "/Mrunali-Mahamunkar/My-React-app/static/js/325.073579df.chunk.js.map",
+    "699.c78892ff.chunk.js.map": "/Mrunali-Mahamunkar/My-React-app/static/js/699.c78892ff.chunk.js.map",
+    "850.f7452202.chunk.js.map": "/Mrunali-Mahamunkar/My-React-app/static/js/850.f7452202.chunk.js.map",
+    "57.3b1186e3.chunk.js.map": "/Mrunali-Mahamunkar/My-React-app/static/js/57.3b1186e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42163370.css",
+    "static/js/main.5a50b933.js"
+  ]
+}

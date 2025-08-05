@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio1=self.webpackChunkportfolio1||[]).push([[699],{699:(s,l,i)=>{i.r(l),i.d(l,{default:()=>e});i(43);var t=i(579);const e=function(){return(0,t.jsxs)("section",{id:"skills",className:"section",children:[(0,t.jsx)("h2",{children:"Skills"}),(0,t.jsx)("br",{}),(0,t.jsx)("ul",{className:"skills-list",children:["HTML5","CSS3","JavaScript","React.js","Bootstrap","Git & GitHub","MySQL"].map((s,l)=>(0,t.jsx)("li",{children:s},l))})]})}}}]);
+//# sourceMappingURL=699.c78892ff.chunk.js.map
